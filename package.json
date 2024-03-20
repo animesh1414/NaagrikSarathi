@@ -1,0 +1,31 @@
+{
+  "name": "admin-dashboard",
+  "version": "1.0.0",
+  "description": "An interactive Admin dashboard with a responsive design, built using HTML, CSS, and JavaScript. It offers a user-friendly interface for managing and monitoring application/system aspects. Features include data visualization, user management, analytics, and customizable widgets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"mocha tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montyaction/AdminHub.git"
+  },
+  "keywords": [
+    "Admin dashboard",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "User interface",
+    "Responsive design",
+    "Data visualization",
+    "User management",
+    "Analytics",
+    "Customizable widgets"
+  ],
+  "author": "montyaction",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montyaction/AdminHub/issues"
+  },
+  "homepage": "https://github.com/montyaction/AdminHub#readme"
+}
