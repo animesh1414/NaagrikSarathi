@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418858835594",
+    "project_id": "naagrik-sarathi-q7yxds",
+    "storage_bucket": "naagrik-sarathi-q7yxds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418858835594:android:455966ff1e9ca5a4521773",
+        "android_client_info": {
+          "package_name": "com.mycompany.naagriksarathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB-WhnsRSVbcSkpKYne541jBvkTXksACk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
